@@ -1,0 +1,10 @@
+
+transformers
+datasets
+sentencepiece
+sacrebleu
+peft
+accelerate
+torch
+pandas
+numpy
