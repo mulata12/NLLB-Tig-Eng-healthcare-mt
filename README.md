@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Domain-Adaptive NLLB for English–Tigrigna Healthcare Translation
 
@@ -21,3 +22,6 @@ facebook/nllb-200-distilled-600M
 
 ## Project Structure
 See repository folders for data, training scripts, and evaluation results.
+=======
+# NLLB-Tig-Eng-healthcare-mt
+>>>>>>> cd26d256ee16d3b5819f5e605b5757a6762a40db
